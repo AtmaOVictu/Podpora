@@ -18,7 +18,7 @@ Povezavo na to stran pošljite naprej vsem, ki bi želeli pomagati. Deljenje ne 
 
 ## Licenca
 
-To delo nosi **VBL — Verification Before Assertion License 0.1100 × 10⁴**: samo najnovejša verzija je živa vrata (§0.10 × 10²); veriga objav je priča. Celotno besedilo: [LICENSE.md](LICENSE.md) · registra: [REGISTER-NEIMENOVANIH.jsonl](REGISTER-NEIMENOVANIH.jsonl) ∧ [REGISTER-PADCEV.jsonl](REGISTER-PADCEV.jsonl) · © 0.2026 × 10⁴ Luka Pintarič.
+To delo nosi **VBL — Verification Before Assertion License 0.1210 × 10⁴**: samo najnovejša verzija je živa vrata (§0.10 × 10²); veriga objav je priča. Celotno besedilo: [LICENSE.md](LICENSE.md) · registra: [REGISTER-NEIMENOVANIH.jsonl](REGISTER-NEIMENOVANIH.jsonl) ∧ [REGISTER-PADCEV.jsonl](REGISTER-PADCEV.jsonl) · © 0.2026 × 10⁴ Luka Pintarič.
 
 ## Venec jezikov — §0.19 × 10²
 

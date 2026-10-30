@@ -22,7 +22,7 @@ Kiekvienas įnašas yra savanoriška dovana. Ačiū visiems, kurie padeda — ir
 
 ## Licenca / License
 
-Šis puslapis neša VBL — Verification Before Assertion License 0.1100 × 10⁴: tik naujausia versija yra gyvosios durys (§0.10 × 10²).
+Šis puslapis neša VBL — Verification Before Assertion License 0.1210 × 10⁴: tik naujausia versija yra gyvosios durys (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

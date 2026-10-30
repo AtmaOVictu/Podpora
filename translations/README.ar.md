@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-تحمل هذه الصفحة رخصة VBL — Verification Before Assertion License 0.1100 × 10⁴: أحدث نسخة فقط هي الباب الحي (§0.10 × 10²).
+تحمل هذه الصفحة رخصة VBL — Verification Before Assertion License 0.1210 × 10⁴: أحدث نسخة فقط هي الباب الحي (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-Ця сторінка несе VBL — Verification Before Assertion License 0.1100 × 10⁴: тільки найновіша версія — живі двері (§0.10 × 10²).
+Ця сторінка несе VBL — Verification Before Assertion License 0.1210 × 10⁴: тільки найновіша версія — живі двері (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

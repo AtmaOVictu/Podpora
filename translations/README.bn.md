@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-এই পাতা VBL বহন করে — Verification Before Assertion License 0.1100 × 10⁴: কেবল সর্বশেষ সংস্করণই জীবন্ত দরজা (§0.10 × 10²)।
+এই পাতা VBL বহন করে — Verification Before Assertion License 0.1210 × 10⁴: কেবল সর্বশেষ সংস্করণই জীবন্ত দরজা (§0.10 × 10²)।
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

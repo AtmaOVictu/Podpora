@@ -22,7 +22,7 @@ Her katkı gönüllü bir hediyedir. Yardım eden herkese — ve sadece beni dü
 
 ## Licenca / License
 
-Bu sayfa VBL'yi taşır — Verification Before Assertion License 0.1100 × 10⁴: yalnızca en yeni sürüm yaşayan kapıdır (§0.10 × 10²).
+Bu sayfa VBL'yi taşır — Verification Before Assertion License 0.1210 × 10⁴: yalnızca en yeni sürüm yaşayan kapıdır (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

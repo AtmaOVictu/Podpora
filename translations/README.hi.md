@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-यह पृष्ठ VBL ले जाता है — Verification Before Assertion License 0.1100 × 10⁴: केवल नवीनतम संस्करण ही जीवित द्वार है (§0.10 × 10²)।
+यह पृष्ठ VBL ले जाता है — Verification Before Assertion License 0.1210 × 10⁴: केवल नवीनतम संस्करण ही जीवित द्वार है (§0.10 × 10²)।
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

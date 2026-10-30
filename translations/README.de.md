@@ -22,7 +22,7 @@ Jeder Beitrag ist ein freiwilliges Geschenk. Danke allen, die helfen — und all
 
 ## Licenca / License
 
-Diese Seite trägt die VBL — Verification Before Assertion License 0.1100 × 10⁴: Nur die neueste Version ist die lebendige Tür (§0.10 × 10²).
+Diese Seite trägt die VBL — Verification Before Assertion License 0.1210 × 10⁴: Nur die neueste Version ist die lebendige Tür (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

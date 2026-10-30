@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-Ова страница носи ВБЛ — Verification Before Assertion License 0.1100 × 10⁴: само најновија верзија су жива врата (§0.10 × 10²).
+Ова страница носи ВБЛ — Verification Before Assertion License 0.1210 × 10⁴: само најновија верзија су жива врата (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

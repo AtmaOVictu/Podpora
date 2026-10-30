@@ -22,7 +22,7 @@ Svaki prilog je dobrovoljni dar. Hvala svakome tko pomaže — i svakome tko sam
 
 ## Licenca / License
 
-Ova stranica nosi VBL — Verification Before Assertion License 0.1100 × 10⁴: samo najnovija verzija su živa vrata (§0.10 × 10²).
+Ova stranica nosi VBL — Verification Before Assertion License 0.1210 × 10⁴: samo najnovija verzija su živa vrata (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

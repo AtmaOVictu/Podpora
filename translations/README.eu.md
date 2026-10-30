@@ -22,7 +22,7 @@ Ekarpen bakoitza borondatezko dohaintza da. Eskerrik asko laguntzen duenari — 
 
 ## Licenca / License
 
-Orri honek VBL darama — Verification Before Assertion License 0.1100 × 10⁴: bertsio berriena bakarrik da atea bizia (§0.10 × 10²).
+Orri honek VBL darama — Verification Before Assertion License 0.1210 × 10⁴: bertsio berriena bakarrik da atea bizia (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

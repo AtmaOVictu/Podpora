@@ -22,7 +22,7 @@ Minden hozzájárulás önkéntes ajándék. Köszönöm mindenkinek, aki segít
 
 ## Licenca / License
 
-Ez az oldal a VBL-t hordozza — Verification Before Assertion License 0.1100 × 10⁴: csak a legújabb verzió az élő ajtó (§0.10 × 10²).
+Ez az oldal a VBL-t hordozza — Verification Before Assertion License 0.1210 × 10⁴: csak a legújabb verzió az élő ajtó (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

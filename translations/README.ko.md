@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-이 페이지는 VBL을 전합니다 — Verification Before Assertion License 0.1100 × 10⁴：오직 최신 버전만이 살아 있는 문입니다 (§0.10 × 10²).
+이 페이지는 VBL을 전합니다 — Verification Before Assertion License 0.1210 × 10⁴：오직 최신 버전만이 살아 있는 문입니다 (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

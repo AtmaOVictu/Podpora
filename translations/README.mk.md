@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-Оваа страница го носи VBL — Verification Before Assertion License 0.1100 × 10⁴: само најновата верзија е жива врата (§0.10 × 10²).
+Оваа страница го носи VBL — Verification Before Assertion License 0.1210 × 10⁴: само најновата верзија е жива врата (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

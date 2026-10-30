@@ -22,7 +22,7 @@ Jokainen tuki on vapaaehtoinen lahja. Kiitos auttajille — ja niille, jotka vai
 
 ## Licenca / License
 
-Tämä sivu kantaa VBL:ää — Verification Before Assertion License 0.1100 × 10⁴: vain uusin versio on elävä ovi (§0.10 × 10²).
+Tämä sivu kantaa VBL:ää — Verification Before Assertion License 0.1210 × 10⁴: vain uusin versio on elävä ovi (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

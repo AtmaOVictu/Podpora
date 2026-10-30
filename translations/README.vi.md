@@ -22,7 +22,7 @@ Mỗi đóng góp là một món quà tự nguyện. Cảm ơn tất cả ai gi�
 
 ## Licenca / License
 
-Trang này mang VBL — Verification Before Assertion License 0.1100 × 10⁴: chỉ phiên bản mới nhất là cánh cửa sống (§0.10 × 10²).
+Trang này mang VBL — Verification Before Assertion License 0.1210 × 10⁴: chỉ phiên bản mới nhất là cánh cửa sống (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

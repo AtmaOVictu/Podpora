@@ -22,7 +22,7 @@ Fiecare contribuție este un dar voluntar. Mulțumesc tuturor care ajută — ș
 
 ## Licenca / License
 
-Această pagină poartă VBL — Verification Before Assertion License 0.1100 × 10⁴: doar cea mai nouă versiune este ușa vie (§0.10 × 10²).
+Această pagină poartă VBL — Verification Before Assertion License 0.1210 × 10⁴: doar cea mai nouă versiune este ușa vie (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

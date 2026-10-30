@@ -22,7 +22,7 @@ Každý příspěvek je dobrovolný dar. Děkuji všem, kdo pomáhají — a vš
 
 ## Licenca / License
 
-Tato stránka nese VBL — Verification Before Assertion License 0.1100 × 10⁴: jen nejnovější verze je živými dveřmi (§0.10 × 10²).
+Tato stránka nese VBL — Verification Before Assertion License 0.1210 × 10⁴: jen nejnovější verze je živými dveřmi (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

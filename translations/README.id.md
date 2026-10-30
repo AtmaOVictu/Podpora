@@ -22,7 +22,7 @@ Setiap kontribusi adalah hadiah sukarela. Terima kasih kepada semua yang membant
 
 ## Licenca / License
 
-Halaman ini membawa VBL — Verification Before Assertion License 0.1100 × 10⁴: hanya versi terbaru yang adalah pintu yang hidup (§0.10 × 10²).
+Halaman ini membawa VBL — Verification Before Assertion License 0.1210 × 10⁴: hanya versi terbaru yang adalah pintu yang hidup (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-یہ صفحہ VBL لے جاتا ہے — Verification Before Assertion License 0.1100 × 10⁴: صرف تازہ ترین ورژن زندہ دروازہ ہے (§0.10 × 10²)۔
+یہ صفحہ VBL لے جاتا ہے — Verification Before Assertion License 0.1210 × 10⁴: صرف تازہ ترین ورژن زندہ دروازہ ہے (§0.10 × 10²)۔
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

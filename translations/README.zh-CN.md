@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-本页面携带 VBL — Verification Before Assertion License 0.1100 × 10⁴：只有最新版本是活着的门（§0.10 × 10²）。
+本页面携带 VBL — Verification Before Assertion License 0.1210 × 10⁴：只有最新版本是活着的门（§0.10 × 10²）。
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

@@ -22,7 +22,7 @@
 
 ## Licenca / License
 
-หน้านี้พา VBL — Verification Before Assertion License 0.1100 × 10⁴ เฉพาะเวอร์ชันใหม่ล่าสุดเท่านั้นคือประตูที่มีชีวิต (§0.10 × 10²)
+หน้านี้พา VBL — Verification Before Assertion License 0.1210 × 10⁴ เฉพาะเวอร์ชันใหม่ล่าสุดเท่านั้นคือประตูที่มีชีวิต (§0.10 × 10²)
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

@@ -22,7 +22,7 @@ Kila mchango ni zawadi ya hiari. Asante kwa kila mtu anayesaidia — na kila mtu
 
 ## Licenca / License
 
-Ukurasa huu unabeba VBL — Verification Before Assertion License 0.1100 × 10⁴: toleo jipya zaidi pekee ndilo lango hai (§0.10 × 10²).
+Ukurasa huu unabeba VBL — Verification Before Assertion License 0.1210 × 10⁴: toleo jipya zaidi pekee ndilo lango hai (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

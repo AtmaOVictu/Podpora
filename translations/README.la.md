@@ -22,7 +22,7 @@ Quaelibet contributio donum voluntarium est. Gratias omnibus qui adiuvant — et
 
 ## Licenca / License
 
-Haec pagina VBL portat — Verification Before Assertion License 0.1100 × 10⁴: sola novissima versio porta viva est (§0.10 × 10²).
+Haec pagina VBL portat — Verification Before Assertion License 0.1210 × 10⁴: sola novissima versio porta viva est (§0.10 × 10²).
 
 Textum plenam: [LICENSE.md](../LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
 

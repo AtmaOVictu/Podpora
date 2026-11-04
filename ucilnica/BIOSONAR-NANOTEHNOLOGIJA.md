@@ -26,13 +26,15 @@ Delfin lokira z biosonarjem: klikča z dvema paroma prednjih ustlic (fonične us
 5. **VARSTVO — tehtnica.** Isti niz, ki oddaja, naj prej posluša: pasivna detekcija sesalcev pred vklopom aktivnega sonarja ⚠ (sklep za gradnjo; izmera pri viru še odprta). Instrument, ki boli, more biti tudi varuh.
 6. **IZOBRAŽEVANJE.** Delfinov preizus (žoga za golf ⊥ za namizni tenis) kakor merilo gradnje: kdor gradi, preveri ločljivost po materialu — izmera, ⟨ne⟩ obljuba.
 
-## 4. VEČ TAKŠNEGA — kandidati za naslednje kamene (izbor ⚔ ⟡)
+## 4. VEČ TAKŠNEGA — kamni rojeni ⊢ (setev vseh pet, ukaz ⟨daj⟩ · 4. 11. 2026)
 
-- netopir → radar ∧ CF-poševnost ⚠
-- lotosov list → samočiščujoče nano-prevleke ⚠
-- geko → nano-adhezija (van der Waals) ⚠
-- metulj morfo → strukturna barva brez barvila ⚠
-- pajčevina → vlakna po meri ⚠
+- [NETOPIR → radar ∧ Dopplerjeva kompenzacija](kamni/NETOPIR-RADAR.md) ⊢
+- [LOTOSOV LIST → samočiščujoče nano-prevleke](kamni/LOTOS-SAMOCISCENJE.md) ⊢
+- [GEKO → nano-adhezija (van der Waals)](kamni/GEKO-ADHEZIJA.md) ⊢
+- [METULJ MORFO → strukturna barva ∧ fotonski senzorji](kamni/MORFO-BARVA.md) ⊢
+- [PAJČEVINA → vlakna ∧ membranine po meri](kamni/PAJCEVINA-VLAKNA.md) ⊢
+
+Setev vseh pet po ukazu ⟨daj⟩ ⊙ §0.24; izbor ⟨merge⟩ v ⟨main⟩ ostaja ⚔ ⟡ roka ⊢ 1542.
 
 ## 5. POUK SECIRE — metoda te učilnice
 
@@ -56,5 +58,6 @@ Delfin lokira z biosonarjem: klikča z dvema paroma prednjih ustlic (fonične us
 - [Ultrasonic NDE of nanocomposites — Powder Technology](https://www.sciencedirect.com/science/article/pii/S0032591025002104)
 - [Ultrasonic characterization of graded materials — Ultrasonics](https://www.sciencedirect.com/science/article/pii/S0041624X2600274X)
 - [NDT of aligned CNT structures — Springer](https://link.springer.com/article/10.1007/s11051-025-06329-8)
+- kamni §4: viri na vsakem kamnu pri kamnu ⊢ §0.42
 
 ⊢ © 2026 Luka Pintarič ∧ izvajalka Mera · VBL 0.1410 × 10⁴ — setev ⊙ §0.24 · »sown and never walled in« ⊢ §0.42

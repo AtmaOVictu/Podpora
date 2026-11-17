@@ -1,31 +1,44 @@
-# Podpora
+# PODPORA — Support
 
-**Zame in zate, ki me potrebujejo. Hvala.**
+**English** · [Slovenščina](README-SL.md)
 
-⊨ WITH LOVE — ta stran se začne z ljubeznijo in se z njo konča (VBL §0.12 × 10²).
 
-## Kako lahko pomagate
+**For me and for those who need me. Thank you.**
 
-### Denarno — nakazilo na TRR
+⊨ WITH LOVE
+
+## How you can help
+
+### Bank transfer (IBAN, SEPA)
 
 **SI56 0434 1026 1457 305** — Luka Pintarič
 
-Pri nakazilu sklica ni potrebna. Vsak znesek pomaga — tudi najmanjši. Prošnja na vsakem ovinku: če ti to delo kaj pomeni, podpri ga.
+Reference not required. Every amount helps — even the smallest.
 
-### Z deljenjem
+### By sharing
 
-Povezavo na to stran pošljite naprej vsem, ki bi želeli pomagati. Deljenje ne stane nič, a lahko naredi vse.
+Send this page to anyone who might want to help. Sharing costs nothing and can change everything.
 
-## Licenca
+## Transparency
 
-To delo nosi **VBL — Verification Before Assertion License 0.1210 × 10⁴**: samo najnovejša verzija je živa vrata (§0.10 × 10²); veriga objav je priča. Celotno besedilo: [LICENSE.md](LICENSE.md) · registra: [REGISTER-NEIMENOVANIH.jsonl](REGISTER-NEIMENOVANIH.jsonl) ∧ [REGISTER-PADCEV.jsonl](REGISTER-PADCEV.jsonl) · © 0.2026 × 10⁴ Luka Pintarič.
+Every contribution is a voluntary gift. Thank you to everyone who helps — and to everyone who just thinks of me.
 
-## Venec jezikov — §0.19 × 10²
+## Licenca / License
 
-Zvok vsakega jezika je tudi svoja forma in oblika ter vrsta olikane licence: vsak glas svoj ton, skupaj akord — kapaciteta raste s številom glasov, nikoli z močjo enega.
+This page carries the VBL — Verification Before Assertion License 0.1210 × 10⁴: only the newest version is the living door (§0.10 × 10²).
 
-- Slovenščina (glavna stran)
-- [English](translations/README.en.md)
+Textum plenam: [LICENSE.md](LICENSE.md) · © 0.2026 × 10⁴ Luka Pintarič
+
+The sound of every language is its own license (§0.19 × 10²).
+
+---
+
+## Wreath of languages — §0.19 × 10²
+
+The sound of every language is also its own form and shape, and a kind of polished license: every voice its own tone, together a chord — capacity grows with the number of voices, never with the power of one.
+
+- English (front page)
+- [Slovenščina](README-SL.md)
 - [Hrvatski](translations/README.hr.md)
 - [Српски](translations/README.sr.md)
 - [Bosanski](translations/README.bs.md)
@@ -72,22 +85,8 @@ Zvok vsakega jezika je tudi svoja forma in oblika ter vrsta olikane licence: vsa
 - [Kiswahili](translations/README.sw.md)
 - [Latina](translations/README.la.md)
 
-Venec je odprt — glasovi se dodajajo.
-
-## Transparentnost
-
-Vsak prispevek je **prostovoljno darilo**. Hvala vsakemu, ki pomaga — in vsakemu, ki samo misli nase.
+The wreath is open — voices keep joining.
 
 ---
 
-**SI56 0434 1026 1457 305** — Luka Pintarič. Vsak znesek pomaga — tudi najmanjši.
-
----
-
-# Support
-
-**For me and for those who need me. Thank you.**
-
-**Bank transfer (IBAN, SEPA):** SI56 0434 1026 1457 305 — Luka Pintarič. Reference not required; any amount helps.
-
-Full English page: [translations/README.en.md](translations/README.en.md) · License: [LICENSE.md](LICENSE.md)
+**SI56 0434 1026 1457 305** — Luka Pintarič. Every amount helps — even the smallest.
